@@ -107,7 +107,7 @@ with open(filename, 'a') as file_object:
 ```
 
 
-2024 Summer Python Programming Bootcamp - In-class Exercise  
+Exercise  
 ========
 
 Task 1:
