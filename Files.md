@@ -1,21 +1,3 @@
-# User input
-
-The input() function lets the user enter some values. Once Python receives the input, it assigns that input to a variable to make it useful to work with in the program. The following program asks the user to enter some text, then displays that message back to the user:
-
-```python
-message = input("What is your name?\n")
-print(f"Your name is: {message}!")
-```
-
-When you use the input() function, Python interprets everything tas a string. You may use the int() function, which tells Python to treat the input as a numerical value
-
-```python
-from datetime import date
-today = date.today()
-dob = input("Which year you were born?\n")
-dob = int(dob)
-print(f"You are: {(today.year - dob)} years old!")
-```
 
 
 # Files
