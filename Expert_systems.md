@@ -51,7 +51,7 @@ The **inference engine** determines how the declarative logic is processed. Firs
 Inference engines can be further categorized as
 
 + Forward chaining systems. Start with the premises and work forward to the consudion supported by those premisses.
-+ Backward chining. Start with a conclusion to be proven and wrok backward to the premises that would support the conclusion.
++ Backward chaining. Start with a conclusion to be proven and wrok backward to the premises that would support the conclusion.
 
 ## CLIPS
 
