@@ -1,7 +1,7 @@
 # Expert Systems
-BMIG 5003 Fall 2022
+BMIG 50303 Fall 2024
 
-Horacio Gomez-Acevedo
+Shaymaa Al-Shukri
 
 The text is based on the book by Gary Riley *Adventures in rule-based programming: A CLIPS tutorial*.
 
