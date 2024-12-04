@@ -1,6 +1,6 @@
-# BMIG 5003 Fall 2023
+# BMIG 50303 Fall 2024
 
-Horacio Gomez-Acevedo
+Shaymaa Al-Shukri
 
 
 ## What you have learned?
